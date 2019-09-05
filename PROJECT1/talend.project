@@ -100,6 +100,19 @@
       <relatedItems xmi:id="_BVM668-9EemsabxR97MVlA" id="Mathematical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_BVM67M-9EemsabxR97MVlA" id="_l6DNUM-8EemsabxR97MVlA - metadata" version="Latest" type="schema"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_dulOcM_BEemsabxR97MVlA">
+      <baseItem xmi:id="_dulOcc_BEemsabxR97MVlA" id="_dmIWsM-5EemsabxR97MVlA" version="0.1" type="joblet"/>
+      <relatedItems xmi:id="_dulOcs_BEemsabxR97MVlA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dulOc8_BEemsabxR97MVlA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dulOdM_BEemsabxR97MVlA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dulOdc_BEemsabxR97MVlA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dulOds_BEemsabxR97MVlA" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dulOd8_BEemsabxR97MVlA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dulOeM_BEemsabxR97MVlA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dulOec_BEemsabxR97MVlA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dulOes_BEemsabxR97MVlA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dulOe8_BEemsabxR97MVlA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_njlN0MpUEem7fPbJnUhNug" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_njlN0cpUEem7fPbJnUhNug" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_njlN0spUEem7fPbJnUhNug" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
