@@ -2,7 +2,7 @@
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" name="Default">
     <contextParameter comment="" name="host" prompt="host?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="port" prompt="port?" promptNeeded="false" type="id_Integer" value=""/>
     <contextParameter comment="" name="user" prompt="user?" promptNeeded="false" type="id_String" value=""/>
     <contextParameter comment="" name="pass" prompt="pass?" promptNeeded="false" type="id_String" value=""/>
     <contextParameter comment="" name="db" prompt="db?" promptNeeded="false" type="id_String" value=""/>
