@@ -199,7 +199,7 @@
       <elementParameter field="CLOSED_LIST" name="DB_VERSION" value="MYSQL_5"/>
       <elementParameter field="TEXT" name="HOST" value="((String)globalMap.get(&quot;host&quot;))"/>
       <elementParameter field="TEXT" name="TYPE" value="MySQL" show="false"/>
-      <elementParameter field="TEXT" name="PORT" value="((Integer)globalMap.get(port))"/>
+      <elementParameter field="TEXT" name="PORT" value="((Integer)globalMap.get(&quot;port&quot;))"/>
       <elementParameter field="TEXT" name="DBNAME" value="((String)globalMap.get(&quot;db&quot;))"/>
       <elementParameter field="TEXT" name="PROPERTIES" value="&quot;noDatetimeStringSync=true&quot;"/>
       <elementParameter field="TEXT" name="USER" value="((String)globalMap.get(&quot;user&quot;))"/>
