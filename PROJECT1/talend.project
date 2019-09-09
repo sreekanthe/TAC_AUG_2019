@@ -87,7 +87,6 @@
     </implicitContextSettings>
     <ItemsRelations xmi:id="_BVMT0M-9EemsabxR97MVlA">
       <baseItem xmi:id="_BVM64M-9EemsabxR97MVlA" id="_IRB6AM-8EemsabxR97MVlA" version="0.1" type="job"/>
-      <relatedItems xmi:id="_BVM64c-9EemsabxR97MVlA" id="_l6DNUM-8EemsabxR97MVlA" version="Latest" type="property"/>
       <relatedItems xmi:id="_BVM64s-9EemsabxR97MVlA" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_BVM648-9EemsabxR97MVlA" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_BVM65M-9EemsabxR97MVlA" id="Relational" version="Latest" type="routine"/>
