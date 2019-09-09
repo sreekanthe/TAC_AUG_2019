@@ -202,7 +202,7 @@
     <elementParameter field="TEXT" name="HOST" value="context.host"/>
     <elementParameter field="TEXT" name="PORT" value="context.port"/>
     <elementParameter field="TEXT" name="DBNAME" value="context.db"/>
-    <elementParameter field="TEXT" name="USER" value="context.db"/>
+    <elementParameter field="TEXT" name="USER" value="context.user"/>
     <elementParameter field="PASSWORD" name="PASS" value="8pW6Nmy2kucpSs5JqrpHDg=="/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;testdb&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="DROP_IF_EXISTS_AND_CREATE"/>
