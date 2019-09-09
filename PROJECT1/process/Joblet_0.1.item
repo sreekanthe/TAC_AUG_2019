@@ -6,6 +6,7 @@
     <contextParameter comment="" name="user" prompt="user?" promptNeeded="false" type="id_String" value=""/>
     <contextParameter comment="" name="pass" prompt="pass?" promptNeeded="false" type="id_String" value=""/>
     <contextParameter comment="" name="db" prompt="db?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="context_file" prompt="context_file?" promptNeeded="false" type="id_String" value="C:\Users\lenovo\Desktop\Sreekanth\context.values.txt"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0" show="false"/>
