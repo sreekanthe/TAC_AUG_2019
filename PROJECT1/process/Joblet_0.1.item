@@ -199,7 +199,7 @@
     <elementParameter field="COMPONENT_LIST" name="CONNECTION" value="" show="false"/>
     <elementParameter field="TEXT" name="TYPE" value="MySQL" show="false"/>
     <elementParameter field="TEXT" name="HOST" value="context.host"/>
-    <elementParameter field="TEXT" name="PORT" value="context.port:"/>
+    <elementParameter field="TEXT" name="PORT" value="context.port"/>
     <elementParameter field="TEXT" name="DBNAME" value="context.db"/>
     <elementParameter field="TEXT" name="USER" value="context.db"/>
     <elementParameter field="PASSWORD" name="PASS" value="8pW6Nmy2kucpSs5JqrpHDg=="/>
