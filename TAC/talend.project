@@ -414,4 +414,5 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_qiI6YqLPEeieJPv1MHgrpQ" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_ezRbUaLWEeiKLNtFeGhfbQ" login="test@gmail.com" firstName="test" lastName="test1" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_r49FkdVrEemP55QvFS-hDg" login="tac@company.com" firstName="sreekanth" lastName="tac" type="DI"/>
 </xmi:XMI>
